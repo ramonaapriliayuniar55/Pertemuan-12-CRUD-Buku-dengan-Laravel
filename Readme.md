@@ -108,7 +108,6 @@ Fitur ini memungkinkan pengguna memilih banyak buku kemudian menghapusnya dalam 
 * Export seluruh data buku
 * Download otomatis file CSV
 * Dapat dibuka menggunakan Microsoft Excel
-* Format data rapi dan terstruktur
 
 ---
 
