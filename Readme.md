@@ -1,10 +1,11 @@
-# Tugas Pertemuan 12 - CRUD Buku dengan Laravel
+# Tugas Pertemuan 12 - CRUD Buku Dengan Laravel
 
-**Nama:** Ramona Aprilia Yuniar
-**NIM:** 60324039
-**Prodi:** Informatika
-**Semester:** 4
+**Nama:** Ramona Aprilia Yuniar  
+**NIM:** 60324039  
+**Prodi:** Informatika  
+**Semester:** 4  
 **Repository:** https://github.com/ramonaapriliayuniar55/Pertemuan-12-CRUD-Buku-dengan-Laravel.git
+
 ---
 
 # Tugas 1 : Form Request Validation & Custom Validation Rule
@@ -92,7 +93,7 @@ Fitur ini memungkinkan pengguna memilih banyak buku kemudian menghapusnya dalam 
 
 ### Screenshot
 
-![Tugas 2](Screenshots/tugas2.png)
+![Tugas 2](Screenshots/tugas2.jpeg)
 
 ---
 
