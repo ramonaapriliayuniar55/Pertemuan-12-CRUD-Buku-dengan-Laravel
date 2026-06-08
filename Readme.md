@@ -13,9 +13,6 @@
 ## Perintah yang Digunakan
 
 ```bash
-php artisan make:request StoreBukuRequest
-
-php artisan make:request UpdateBukuRequest
 
 php artisan make:rule KodeBukuFormat
 ```
